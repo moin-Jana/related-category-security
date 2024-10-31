@@ -1,0 +1,9 @@
+en:
+  theme_metadata:
+    description: "Adds information about the security permissions of parent and subcategories below those of the current category"
+  grandparent_category: Grandparent category
+  parent_category: Parent category
+  subcategories: Subcategories
+  sub_subcategories: Sub-subcategories
+  loading: Loading...
+  settings: Settings

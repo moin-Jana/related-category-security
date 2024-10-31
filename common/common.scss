@@ -1,0 +1,36 @@
+.related-category-security {
+  max-width: 450px;
+
+  .related-expandable-item {
+    margin-bottom: 1em;
+
+    .related-category-btns {
+      display: flex;
+
+      .btn:focus {
+        color: var(--primary);
+      }
+
+      .expand-category-btn {
+        flex-grow: 1;
+        justify-content: left;
+        padding-left: 0;
+        font-weight: bold;
+        text-align: left;
+        .badge-category__wrapper .badge-category {
+          gap: 0;
+        }
+      }
+    }
+
+    .category-permissions-table {
+      margin-bottom: 1;
+    }
+
+    .permission-row {
+      .svg-icon {
+        color: var(--primary-medium);
+      }
+    }
+  }
+}
