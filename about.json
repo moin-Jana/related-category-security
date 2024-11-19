@@ -2,7 +2,7 @@
   "name": "Related categories permissions",
   "component": true,
   "authors": "Moin",
-  "about_url": "TODO: Put your theme's public repo or Meta topic URL here",
+  "about_url": "https://meta.discourse.org/t/related-category-permissions/337039",
   "license_url": "https://github.com/moin-Jana/related-category-permissions/blob/main/LICENSE",
   "theme_version": "0.0.1",
   "minimum_discourse_version": null,
